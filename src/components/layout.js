@@ -11,9 +11,6 @@ const Layout = ({pageTitle, children}) => {
       description
     }
   }
-      siteBuildMetadata {
-      buildTime
-    }
 }`)
 
     return (
